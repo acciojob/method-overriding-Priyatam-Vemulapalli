@@ -1,6 +1,6 @@
 package com.driver;
 
-class A {
+public class A {
     A() {
     }
 
