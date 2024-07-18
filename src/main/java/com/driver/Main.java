@@ -1,4 +1,3 @@
-// File: src/main/java/com/driver/Main.java
 package com.driver;
 
 public class Main {
